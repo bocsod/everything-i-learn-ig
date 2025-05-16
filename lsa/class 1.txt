@@ -1,0 +1,22 @@
+class 1
+
+pwd- present working directory
+ss
+cd /
+ls
+ls -l or ll
+clear
+cd (root e back kore)
+cd typeWhereUgo
+absolute path root folder te-- cd /poth/target
+cd ..(ek step pichone
+mkdir foldername
+for abs path- mkdir /root/poth
+touch kisu.txt
+basic commands--
+rm -rf = dlt er jnno
+copy = cp /poth(absolute path)
+cat = concatanation?
+free -h
+df
+history
